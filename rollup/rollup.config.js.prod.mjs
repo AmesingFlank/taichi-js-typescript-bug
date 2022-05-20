@@ -17,6 +17,8 @@ export default {
     resolve({
       browser: true
     }),
-    terser()
+    terser({
+      keep_fnames: true
+    })
   ]
 };
