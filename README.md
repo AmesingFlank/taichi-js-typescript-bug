@@ -1,6 +1,6 @@
 
 
-## To Repro
+## To Repro (Nevermind, all fixed via rollup-plugin-taichi)
 
 Build using one of the 4 build flavours, and then `npm run start` and visit http://127.0.0.1:8080
 
